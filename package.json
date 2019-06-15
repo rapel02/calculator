@@ -1,7 +1,7 @@
 {
+  "homepage": "http://rapel02.github.io/calculator",
   "name": "calculator",
   "version": "0.1.0",
-  "homepage": "http://rapel02.github.io/calculator/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
