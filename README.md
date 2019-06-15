@@ -1,7 +1,7 @@
 # Calculator
 
 
-A simple calculator created with ReactJs
+A simple calculator created with ReactJs. You can see it at https://rapel02.github.io/calculator/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
